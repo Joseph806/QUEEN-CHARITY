@@ -24,7 +24,7 @@ const {
    type: "whatsapp",
    fromMe: true,
    filename: __filename,
-   use: "<group link.>"
+   use: "https://chat.whatsapp.com/HDbRH2rFW7t1SXdMa9vYjD"
  }, async (_0x466dd8, _0x5b1338) => {
    try {
      if (_0x466dd8.reply_message && _0x466dd8.reply_message.groupInvite) {
