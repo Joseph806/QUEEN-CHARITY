@@ -194,7 +194,7 @@ const {
  smd({
    cmdname: "acceptall",
    alias: ["acceptjoin"],
-   react: "🗂️",
+   react: "😜",
    info: "accept all request to join!",
    type: "group",
    filename: __filename
